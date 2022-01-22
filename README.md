@@ -11,7 +11,7 @@ Nesse projeto, o desafio era criar uma página de um site totalmente responsiso.
 
 ### Acesse o link abaixo para jogar
 
-- [Genius](https://tiagoss-cubos.github.io)
+- [Bestflix](https://bestflix.netlify.app)
 
 ### Implementações futuras:
 
