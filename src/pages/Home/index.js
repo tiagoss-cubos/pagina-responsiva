@@ -17,8 +17,7 @@ function Home() {
         }
       );
       const { results } = await response.json();
-      setMovies(results.reverse());
-      console.log(results);
+      setMovies(results);
     }
 
     loadMovieData();
