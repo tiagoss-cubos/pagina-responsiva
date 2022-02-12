@@ -9,7 +9,7 @@ Nesse projeto, o desafio era criar uma página de um site totalmente responsiso.
 - [React](https://pt-br.reactjs.org)
 - [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-### Acesse o link abaixo para jogar
+### Acesse o link para visualizar a página
 
 - [Bestflix](https://bestflix.netlify.app)
 
